@@ -1,0 +1,6 @@
+Flask
+Flask-Login
+pymongo
+cryptography
+python-dotenv
+werkzeug

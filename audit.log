@@ -1,0 +1,28 @@
+2024-07-26 04:59:48,987 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-26 04:59:48,987 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-26 04:59:48,991 - INFO -  * Restarting with stat
+2024-07-26 04:59:49,289 - WARNING -  * Debugger is active!
+2024-07-26 04:59:49,293 - INFO -  * Debugger PIN: 884-507-823
+2024-07-26 04:59:53,214 - INFO - 127.0.0.1 - - [26/Jul/2024 04:59:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-07-26 04:59:53,283 - INFO - 127.0.0.1 - - [26/Jul/2024 04:59:53] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-26 04:59:53,284 - INFO - 127.0.0.1 - - [26/Jul/2024 04:59:53] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-26 04:59:53,306 - INFO - 127.0.0.1 - - [26/Jul/2024 04:59:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-26 04:59:53,318 - INFO - 127.0.0.1 - - [26/Jul/2024 04:59:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-26 05:09:52,428 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-07-26 05:09:52,461 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-26 05:09:52,473 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-26 05:09:52,501 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-26 05:09:52,520 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-26 05:09:54,092 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-07-26 05:09:54,118 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-26 05:09:54,123 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-26 05:09:54,136 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-26 05:09:54,148 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-26 05:09:54,446 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-07-26 05:09:54,471 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-26 05:09:54,475 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-26 05:09:54,482 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-26 05:09:54,498 - INFO - 127.0.0.1 - - [26/Jul/2024 05:09:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-26 05:10:16,024 - INFO -  * Detected change in 'C:\\Tugas Kampus David\\UAS Komputasi Awan David Rifael\\app.py', reloading
+2024-07-26 05:10:16,616 - INFO -  * Restarting with stat
